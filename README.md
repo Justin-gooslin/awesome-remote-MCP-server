@@ -27,6 +27,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | Fetch | Language Models | `https://remote.mcpservers.org/fetch` | Open | [Chathub](https://chathub.gg) |
 | Sequential Thinking | Language Models | `https://remote.mcpservers.org/sequentialthinking` | Open | [Chathub](https://chathub.gg) |
+| Statsnet | Company data / OSINT | `https://statsnet.co/mcp` | API Key | [Statsnet](https://statsnet.co) |
 | YepCode | Software Development | `https://cloud.yepcode.io/mcp/{API_KEY}/sse` | API Key | [YepCode](https://yepcode.io) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.com) |
 | APIFY | Software Development | `https://actors-mcp-server.apify.actor/sse?token=<YOUR_API_TOKEN>&actors=<ACTOR_NAMES>` | API Key | [Apify](https://apify.com) |
