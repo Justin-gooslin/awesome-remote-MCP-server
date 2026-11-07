@@ -30,6 +30,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | YepCode | Software Development | `https://cloud.yepcode.io/mcp/{API_KEY}/sse` | API Key | [YepCode](https://yepcode.io) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.com) |
 | APIFY | Software Development | `https://actors-mcp-server.apify.actor/sse?token=<YOUR_API_TOKEN>&actors=<ACTOR_NAMES>` | API Key | [Apify](https://apify.com) |
+| Vaneform | Data Analysis | `https://vaneform.com/mcp` | Open | [Vaneform](https://vaneform.com) |
 
 
 ## How to use remote MCP servers?
